@@ -12,9 +12,9 @@ Thank you for attending this Developer TechXchange workshop.
 
 ## Accessing the hands-on lab
 
-Click [here](https://github.com/DevOps-on-IBMZ/DTX-wca4z-CICS/blob/main/DTX-Lab-Connection-Instructions.pdf) to read the instructions for IBM System access. 
+Click [here](May-Lab-Connection-Instructions.pdf) to read the instructions for IBM System access. 
 
-All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/DevOps-on-IBMZ/DTX-wca4z-CICS/blob/main/DevTechXchange-COBOLCICSJavaInterop-Lab.pdf) to view it locally.
+All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop) to view it locally.
 
 
 
@@ -33,4 +33,4 @@ All lab instructions are in the "Lab Docs" folder on your remote desktop, or can
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Steve Fowlkes](mailto: fowlkes@us.ibm.com).
+Having trouble with labs? Send an email to [Kenishia Callaway](mailto: kenishia@us.ibm.com) or  [Steve Fowlkes](mailto: fowlkes@us.ibm.com).
