@@ -6,7 +6,7 @@
 
 ## Welcome
 
-Thank you for attending this Developer TechXchange workshop. 
+Thank you for attending this St of CA z/OS Connect workshop. 
 
 
 
